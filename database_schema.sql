@@ -1,0 +1,3 @@
+-- Main SQLite schema is created automatically by app.py on first run.
+-- Tables: project, requirements, changes, wbs, tasks, defects, checklist, risks.
+-- Database file: healthcare_spm.db
